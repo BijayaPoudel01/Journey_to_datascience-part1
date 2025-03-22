@@ -29,7 +29,6 @@ print("hello world")
 '''hi 
 i 
 am ''' #this is multi line comment
-
 d=80
 print(type(d))
 
@@ -37,7 +36,6 @@ name= "welcome to \t sipalaya"
 print(name)
 name= "welcome to \n sipalaya"
 print(name)
-
 print(name[8])
 print(name[-2]) #indexing
 
