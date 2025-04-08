@@ -30,8 +30,6 @@ for i in a:
     print(i)
 
 #search for number x in this tuple(1,4,9,16,25,36,49,64,81,100) using loop
-
-
 a = (1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 49)
 x = 49
 i = 0
@@ -44,8 +42,6 @@ while i < len(a):
 
 
 # #using for loop
-
-
 a = (1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 49)
 index=0
 x=49
